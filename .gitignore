@@ -1,0 +1,22 @@
+# Python
+pose_env/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Vite
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML models (optional)
+*.h5
+*.keras
+*.joblib
+
+# Logs
+*.log

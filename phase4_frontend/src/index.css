@@ -1,0 +1,28 @@
+:root {
+  --bg: #0b0b0c;
+  --surface: #111214;
+  --surface2: #1a1b1f;
+  --border: #2a2c31;
+
+  --text: #f5f7fa;
+  --muted: #8f96a3;
+
+  --accent: #c8ff57;
+  --accent2: #57c8ff;
+  --accent3: #ff6b6b;
+
+  --font-display: Inter, sans-serif;
+  --font-mono: "DM Mono", monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-display);
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "source_image": "nature\\waist_up\\nature_waist_019.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_019_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_019_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_019_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_019_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_019_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_019_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_020.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_020_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_020_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_020_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_020_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_020_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_020_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_021.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_021_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_021_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_021_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_021_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_021_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_021_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_022.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_022_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_022_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_022_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_022_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_022_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_022_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_023.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_023_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_023_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_023_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_023_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_023_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_023_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_024.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_024_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_024_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_024_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_024_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_024_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_024_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_026.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_026_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_026_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_026_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_026_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_026_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_026_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_027.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_027_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_027_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_027_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_027_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_027_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_027_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_029.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_029_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_029_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_029_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_029_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_029_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_029_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_030.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_030_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_030_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_030_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_030_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_030_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_030_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_031.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_031_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_031_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_031_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_031_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_031_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_031_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_032.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_032_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_032_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_032_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_032_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_032_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_032_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_043.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_043_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_043_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_043_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_043_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_043_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_043_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_049.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_049_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_049_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_049_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_049_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_049_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_049_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature\\waist_up\\nature_waist_050.png",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_050_aug_0.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_050_aug_1.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_050_aug_2.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_050_aug_3.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_050_aug_4.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "nature/waist_up/nature_waist_050_aug_5.jpg",
+    "category": "nature",
+    "subcategory": "waist_up",
+    "augmented": true
+  }
+]

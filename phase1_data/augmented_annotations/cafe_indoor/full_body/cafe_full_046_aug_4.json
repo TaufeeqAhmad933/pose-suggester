@@ -1,0 +1,209 @@
+{
+  "image": "cafe_indoor/full_body/cafe_full_046_aug_4.jpg",
+  "category": "cafe_indoor",
+  "subcategory": "full_body",
+  "person_detected": true,
+  "keypoints": {
+    "nose": {
+      "x": 0.5949,
+      "y": 0.20381,
+      "z": -0.15402,
+      "visibility": 0.99999
+    },
+    "left_eye_inner": {
+      "x": 0.60901,
+      "y": 0.18369,
+      "z": -0.14238,
+      "visibility": 0.99999
+    },
+    "left_eye": {
+      "x": 0.61704,
+      "y": 0.18193,
+      "z": -0.14243,
+      "visibility": 0.99999
+    },
+    "left_eye_outer": {
+      "x": 0.6249,
+      "y": 0.18032,
+      "z": -0.14262,
+      "visibility": 0.99999
+    },
+    "right_eye_inner": {
+      "x": 0.58778,
+      "y": 0.18633,
+      "z": -0.1254,
+      "visibility": 0.99998
+    },
+    "right_eye": {
+      "x": 0.58258,
+      "y": 0.18611,
+      "z": -0.12534,
+      "visibility": 0.99997
+    },
+    "right_eye_outer": {
+      "x": 0.57803,
+      "y": 0.18605,
+      "z": -0.12539,
+      "visibility": 0.99997
+    },
+    "left_ear": {
+      "x": 0.64365,
+      "y": 0.18294,
+      "z": -0.01353,
+      "visibility": 0.99999
+    },
+    "right_ear": {
+      "x": 0.5804,
+      "y": 0.18951,
+      "z": 0.06575,
+      "visibility": 0.99995
+    },
+    "mouth_left": {
+      "x": 0.61405,
+      "y": 0.21961,
+      "z": -0.10089,
+      "visibility": 0.99999
+    },
+    "mouth_right": {
+      "x": 0.58946,
+      "y": 0.22462,
+      "z": -0.07816,
+      "visibility": 0.99997
+    },
+    "left_shoulder": {
+      "x": 0.72427,
+      "y": 0.27797,
+      "z": 0.05906,
+      "visibility": 0.99999
+    },
+    "right_shoulder": {
+      "x": 0.55614,
+      "y": 0.28764,
+      "z": 0.20293,
+      "visibility": 0.99977
+    },
+    "left_elbow": {
+      "x": 0.73413,
+      "y": 0.44602,
+      "z": -0.09913,
+      "visibility": 0.98986
+    },
+    "right_elbow": {
+      "x": 0.52432,
+      "y": 0.42907,
+      "z": -0.0107,
+      "visibility": 0.88085
+    },
+    "left_wrist": {
+      "x": 0.72301,
+      "y": 0.36351,
+      "z": -0.31549,
+      "visibility": 0.9896
+    },
+    "right_wrist": {
+      "x": 0.54518,
+      "y": 0.30508,
+      "z": -0.44488,
+      "visibility": 0.95874
+    },
+    "left_pinky": {
+      "x": 0.71213,
+      "y": 0.34432,
+      "z": -0.3587,
+      "visibility": 0.97946
+    },
+    "right_pinky": {
+      "x": 0.55632,
+      "y": 0.2543,
+      "z": -0.51887,
+      "visibility": 0.93182
+    },
+    "left_index": {
+      "x": 0.71072,
+      "y": 0.32922,
+      "z": -0.3577,
+      "visibility": 0.98064
+    },
+    "right_index": {
+      "x": 0.55912,
+      "y": 0.23652,
+      "z": -0.50506,
+      "visibility": 0.92569
+    },
+    "left_thumb": {
+      "x": 0.71122,
+      "y": 0.33113,
+      "z": -0.31629,
+      "visibility": 0.97394
+    },
+    "right_thumb": {
+      "x": 0.56371,
+      "y": 0.25614,
+      "z": -0.45131,
+      "visibility": 0.91775
+    },
+    "left_hip": {
+      "x": 0.68368,
+      "y": 0.52121,
+      "z": -0.07035,
+      "visibility": 0.99909
+    },
+    "right_hip": {
+      "x": 0.59106,
+      "y": 0.5214,
+      "z": 0.07126,
+      "visibility": 0.99722
+    },
+    "left_knee": {
+      "x": 0.57178,
+      "y": 0.56526,
+      "z": -0.45501,
+      "visibility": 0.95537
+    },
+    "right_knee": {
+      "x": 0.5763,
+      "y": 0.67173,
+      "z": -0.04988,
+      "visibility": 0.88663
+    },
+    "left_ankle": {
+      "x": 0.50572,
+      "y": 0.87467,
+      "z": -0.62146,
+      "visibility": 0.94954
+    },
+    "right_ankle": {
+      "x": 0.59132,
+      "y": 0.90862,
+      "z": -0.08406,
+      "visibility": 0.66691
+    },
+    "left_heel": {
+      "x": 0.51132,
+      "y": 0.91051,
+      "z": -0.64019,
+      "visibility": 0.83481
+    },
+    "right_heel": {
+      "x": 0.62487,
+      "y": 0.93319,
+      "z": -0.09155,
+      "visibility": 0.64132
+    },
+    "left_foot_index": {
+      "x": 0.42476,
+      "y": 0.96755,
+      "z": -0.84501,
+      "visibility": 0.92005
+    },
+    "right_foot_index": {
+      "x": 0.57994,
+      "y": 0.98483,
+      "z": -0.24181,
+      "visibility": 0.58902
+    }
+  },
+  "augmented": true,
+  "aug_index": 4,
+  "flipped": false
+}

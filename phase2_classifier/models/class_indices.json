@@ -1,0 +1,8 @@
+{
+  "cafe_indoor__full_body": 0,
+  "cafe_indoor__waist_up": 1,
+  "nature__full_body": 2,
+  "nature__waist_up": 3,
+  "urban_street__full_body": 4,
+  "urban_street__waist_up": 5
+}

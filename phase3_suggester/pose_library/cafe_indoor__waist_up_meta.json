@@ -1,0 +1,506 @@
+[
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_001.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_001_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_001_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_001_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_001_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_001_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_001_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_002.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_002_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_002_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_002_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_002_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_002_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_002_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_003.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_003_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_003_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_003_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_003_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_003_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_003_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_004.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_004_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_004_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_004_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_004_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_004_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_004_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_019.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_019_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_019_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_019_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_019_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_019_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_019_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_030.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_030_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_030_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_030_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_030_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_030_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_030_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_031.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_031_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_031_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_031_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_031_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_031_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_031_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_037.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_037_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_037_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_037_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_037_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_037_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_037_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_039.png",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_039_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_039_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_039_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_039_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_039_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_039_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_048.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_048_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_048_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_048_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_048_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_048_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_048_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_049.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_049_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_049_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_049_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_049_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_049_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_049_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor\\waist_up\\cafe_waist_050.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_050_aug_0.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_050_aug_1.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_050_aug_2.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_050_aug_3.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_050_aug_4.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "cafe_indoor/waist_up/cafe_waist_050_aug_5.jpg",
+    "category": "cafe_indoor",
+    "subcategory": "waist_up",
+    "augmented": true
+  }
+]

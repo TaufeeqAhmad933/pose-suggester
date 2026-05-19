@@ -1,0 +1,1052 @@
+[
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_001.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_001_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_001_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_001_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_001_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_001_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_001_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_002.png",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_002_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_002_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_002_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_002_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_002_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_002_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_003.png",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_003_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_003_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_003_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_003_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_003_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_003_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_005.png",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_005_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_005_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_005_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_005_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_005_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_005_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_027.png",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_027_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_027_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_027_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_027_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_027_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_027_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_028.png",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_028_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_028_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_028_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_028_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_028_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_028_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_029.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_029_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_029_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_029_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_029_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_029_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_029_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_030.jpeg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_030_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_030_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_030_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_030_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_030_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_030_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_032.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_032_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_032_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_032_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_032_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_032_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_032_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_033.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_033_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_033_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_033_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_033_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_033_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_033_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_034.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_034_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_034_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_034_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_034_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_034_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_034_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_035.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_035_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_035_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_035_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_035_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_035_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_035_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_036.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_036_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_036_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_036_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_036_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_036_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_036_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_037.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_037_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_037_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_037_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_037_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_037_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_037_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_039.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_039_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_039_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_039_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_039_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_039_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_039_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_040.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_040_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_040_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_040_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_040_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_040_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_040_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_041.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_041_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_041_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_041_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_041_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_041_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_041_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_042.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_042_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_042_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_042_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_042_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_042_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_042_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_043.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_043_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_043_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_043_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_043_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_043_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_043_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_044.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_044_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_044_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_044_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_044_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_044_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_044_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_045.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_045_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_045_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_045_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_045_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_045_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_045_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_047.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_047_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_047_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_047_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_047_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_047_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_047_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_048.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_048_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_048_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_048_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_048_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_048_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_048_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_049.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_049_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_049_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_049_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_049_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_049_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_049_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street\\waist_up\\urban_waist_050.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": false
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_050_aug_0.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_050_aug_1.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_050_aug_2.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_050_aug_3.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_050_aug_4.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  },
+  {
+    "source_image": "urban_street/waist_up/urban_waist_050_aug_5.jpg",
+    "category": "urban_street",
+    "subcategory": "waist_up",
+    "augmented": true
+  }
+]
