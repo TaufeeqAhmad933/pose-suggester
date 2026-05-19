@@ -1,5 +1,4 @@
 
-```markdown
 # PoseSuggester
 
 PoseSuggester is a full-stack computer vision pipeline that analyzes scene context and user posture to generate tailored, overlaid skeleton pose suggestions. By combining deep learning-based scene classification with spatial keypoint matching, the application guides users toward optimal poses for their specific environment.
